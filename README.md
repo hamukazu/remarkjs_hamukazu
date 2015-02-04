@@ -9,9 +9,9 @@ that some of mathematical formulas are not rendered correctly with
 MathJax. This is a template to overcome it.
 
 ## How to Use
-Write your Markdown text in CONTENT.md and open `index.html`, or write in any file and open `index.html?<filename>`
+Write your markdown text in CONTENT.md and open `index.html`, or write in any file and open `index.html?<filename>`
 
-Note: This has to be run with a HTTP server because it includes an outer file, while if your MD is written in `<textarea>` in the HTML file, it is OK just to open the file without a server.
+Note: This has to be run with a HTTP server because it includes an outer file, while if your markdown is written in `<textarea>` in the HTML file, it is OK just to open the file without a server.
 
-A sample of CONTENT.md is included in this repository, and its demo is available [here](http://hamukazu.githup.io/remarkjs_hamukazu).
+A sample of CONTENT.md is included in this repository, and its demo is available [here](http://hamukazu.github.io/remarkjs_hamukazu).
 
